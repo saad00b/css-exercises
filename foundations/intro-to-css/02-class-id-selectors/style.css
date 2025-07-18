@@ -1,0 +1,16 @@
+.odd {
+    background-color: #ff05aa;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+#elt2 {
+    color: #00aaff;
+    font-size: 36px;
+}
+.elt3 {
+    font-size: 24px;
+}
+#elt4 {
+    background-color: #a0ffa0;
+    font-size: 24px;
+    font-weight: bold;
+}
